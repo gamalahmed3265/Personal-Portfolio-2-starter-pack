@@ -1,0 +1,6 @@
+@import "./contants.scss";
+.container{
+    color: $primary;
+    position: relative;
+    overflow-y: clip;
+}
